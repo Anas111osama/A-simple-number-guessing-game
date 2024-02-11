@@ -1,15 +1,15 @@
-<h2>Hello and welcome to the number guessing game! This game challenges you to guess a hidden number within a certain range based on hints and feedback. Get ready to test your intuition and sharpen your guessing skills!</h2>
+<h3>Hello and welcome to the number guessing game! This game challenges you to guess a hidden number within a certain range based on hints and feedback. Get ready to test your intuition and sharpen your guessing skills!</h3>
 
-<h1>Game description:</h1>
+<h2>Game description:</h2>
 
 <h2>This game offers three levels of difficulty:</h2>
 
 <h3>Level 1: Guess a number between 0 and 10.</h3>
 <h3>Level 2: Guess a number between 10 and 100.</h3>
 <h3>Level 3: Guess a number between 100 and 1000.</h3>
-<h3>For each level, you'll receive hints such as the number's parity (even or odd), and its proximity to certain values. You have 15 attempts to guess correctly. Points are awarded for correct guesses, and you win the level if you accumulate enough points!</h3>
+<p>For each level, you'll receive hints such as the number's parity (even or odd), and its proximity to certain values. You have 15 attempts to guess correctly. Points are awarded for correct guesses, and you win the level if you accumulate enough points!</p>
 
-Getting started:
+<h2>Getting started:</h2>
 
 Clone this repository or download the files.
 Run the main.py file using Python (Ensure you have Python installed).
