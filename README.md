@@ -1,5 +1,38 @@
- <center><img src= https://cdn.pixabay.com/photo/2024/01/25/06/56/ai-generated-8531105_1280.png hight=100 width=100>
-<h1>Game description:</h1></center>
-<h2>This code is a game that get some information about user.</h2>
-<h2>Then choose the level then give some information about the number to the user.</h2>
-<h2>Then the user must guess the number.</h2>
+<h2>Hello and welcome to the number guessing game! This game challenges you to guess a hidden number within a certain range based on hints and feedback. Get ready to test your intuition and sharpen your guessing skills!</h2>
+
+<h1>Game description:</h1>
+
+<h2>This game offers three levels of difficulty:</h2>
+
+<h3>Level 1: Guess a number between 0 and 10.</h3>
+<h3>Level 2: Guess a number between 10 and 100.</h3>
+<h3>Level 3: Guess a number between 100 and 1000.</h3>
+<h3>For each level, you'll receive hints such as the number's parity (even or odd), and its proximity to certain values. You have 15 attempts to guess correctly. Points are awarded for correct guesses, and you win the level if you accumulate enough points!</h3>
+
+Getting started:
+
+Clone this repository or download the files.
+Run the main.py file using Python (Ensure you have Python installed).
+Follow the on-screen instructions to choose your level and start playing.
+Key features:
+
+Three levels of difficulty to progress through.
+Hints provided to guide your guesses.
+Point system to track your performance.
+Feedback messages to keep you engaged.
+Contribution:
+
+This project is open for contributions! Feel free to:
+
+Fork the repository and suggest improvements.
+Report bugs or issues you encounter.
+Enhance the gameplay mechanics or add new features.
+Let's play and have fun!
+
+We hope you enjoy this number guessing game. Don't hesitate to provide feedback or contribute to its development. Happy guessing!
+
+Additional notes:
+
+You can replace "Good"or"Very good" with more varied and dynamic feedback messages for correct guesses.
+Consider adding a leaderboard to track high scores across different levels.
+You could implement different difficulty modes with varying hint frequencies or point systems.
