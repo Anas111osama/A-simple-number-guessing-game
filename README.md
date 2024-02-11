@@ -4,9 +4,9 @@
 
 <h2>This game offers three levels of difficulty:</h2>
 
-<h3>Level 1: Guess a number between 0 and 10.</h3>
+<p>Level 1: Guess a number between 0 and 10.</h3>
 <h3>Level 2: Guess a number between 10 and 100.</h3>
-<h3>Level 3: Guess a number between 100 and 1000.</h3>
+<h3>Level 3: Guess a number between 100 and 1000.</p>
 <p>For each level, you'll receive hints such as the number's parity (even or odd), and its proximity to certain values. You have 15 attempts to guess correctly. Points are awarded for correct guesses, and you win the level if you accumulate enough points!</p>
 
 <h2>Getting started:</h2>
