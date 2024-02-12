@@ -1,6 +1,5 @@
 
 import random
-import time
 file=open(r"C:\Users\Anas\Desktop\Number-Guessing-game-main\L-B.txt","a")
 name =str(input("Enter your name:"))
 points=0
